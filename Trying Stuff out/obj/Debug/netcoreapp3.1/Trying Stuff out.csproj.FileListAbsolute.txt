@@ -1,0 +1,14 @@
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.exe
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.deps.json
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.runtimeconfig.json
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.runtimeconfig.dev.json
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.dll
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\bin\Debug\netcoreapp3.1\Trying Stuff out.pdb
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.csproj.AssemblyReference.cache
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.AssemblyInfoInputs.cache
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.AssemblyInfo.cs
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.csproj.CoreCompileInputs.cache
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.dll
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.pdb
+C:\Users\Duduzile January\OneDrive - Nelson Mandela University\3rd Year\Younglings Hours\Trying Stuff out\Trying Stuff out\obj\Debug\netcoreapp3.1\Trying Stuff out.genruntimeconfig.cache
